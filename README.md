@@ -5,4 +5,4 @@ Copy these three images in images folder to drawable and drawable-v24 folder of 
 
 MainActivity.java and activity_main.xml file is present for your refernce.
 
-[Harry bhai](http://https://www.youtube.com/@CodeWithHarry "Harry bhai")
+All credit goes to [Harry bhai](http://https://www.youtube.com/@CodeWithHarry "Harry bhai")
